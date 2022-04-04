@@ -1,0 +1,75 @@
+.span4 img {
+    margin-right: 10px;
+}
+.span4 .img-left {
+    float: left;
+}
+.span4 .img-right {
+    float: right;
+}
+
+.reviews{
+    padding: 15px;
+    max-width: 768px;
+    margin: 0 auto;
+}
+
+.review-item{
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 5px;
+    box-shadow: 1px 1px 5px #343a40;
+}
+
+
+.review-item .review-text{
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 5px;
+    color: #343a40;
+}
+
+.review-item .reviewer{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #cecece;
+}
+.immagineRidotta{
+    width:  200px;
+    height: 300px;
+}
+
+.double-column {
+
+    text-align: -webkit-center;
+
+    flex-direction: column;
+    flex-basis: 100%;
+}
+.rowdrop {
+
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.column {
+    text-align: -webkit-center;
+
+    flex-direction: column;
+
+}
+
+@media screen and (min-width:480px) {
+    .column {
+        flex: 1
+    }
+
+    .double-column {
+
+        text-align: -webkit-center;
+
+        flex: 2;
+
+    }
+}
+
