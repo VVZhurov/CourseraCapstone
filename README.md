@@ -1,4 +1,4 @@
-# Coursera Cybersecurity Capstone project by Luciano Gavoni
+# Coursera Cybersecurity Capstone project by VVZhurov
 
 The project consists of a chat web-based app in which every message has been encrypted.
 The app is made of:
