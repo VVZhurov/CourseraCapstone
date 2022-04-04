@@ -17,5 +17,3 @@ Specifically,
 - prepends the IV (16 bytes) and the hash (32 bytes) to the ciphertext
 
 You can find my deploy  [here]
-
-Dump by DB [here]
