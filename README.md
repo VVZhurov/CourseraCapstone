@@ -16,6 +16,6 @@ Specifically,
 - generates a random IV for each message
 - prepends the IV (16 bytes) and the hash (32 bytes) to the ciphertext
 
-You can find my deploy  [here](https://www.gavoniluciano.com/coursera/index.php).
+You can find my deploy  [here]
 
-Dump by DB [here](https://www.gavoniluciano.com/coursera/dbdump.php).
+Dump by DB [here]
