@@ -134,7 +134,7 @@ if(!isset($_SESSION[`name`]))
 
 
     <!-- Copyright -->
-    <div class="footer-copyright text-center py-3">© 2020 Copyright:  Luciano Gavoni for Coursera Capstone project 
+    <div class="footer-copyright text-center py-3">© 2022 Copyright:  VVzhurov for Coursera Capstone project 
     </div>
     <!-- Copyright -->
 
